@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MukongKingsly&theme=radical)
 
-<a href="">Twitter</a>
