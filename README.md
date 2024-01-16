@@ -4,13 +4,13 @@
 
 <img align="right" width="450px" src="https://octodex.github.com/images/codercat.jpg" alt="coder"> - 🌱 I’m currently studying **Communications and Information Engineering** - 🌱 Learning **Data Structure and Algorithm**
 
-- Link to my Portfolio **https://www.mukongking.com/
+- Link to my Portfolio https://www.mukongking.com/
   
 - 📫 How to reach me **mukongking@gmail.com** - ⚡ Fun fact **I think I'm Confident in my abilities ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/mukong-kingsly/" target="blank"> &nbsp; <img align="center"
+    <a href="https://www.linkedin.com/in/mukong-kingsly/" target="_blank" rel="noreferrer"> &nbsp; <img align="center"
                         src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png"
                         alt="Kingsly-Mbaaka-Mukong" height="30" width="40" /> &nbsp; </a>
     
@@ -26,11 +26,6 @@
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukongKingsly&theme=monokai" display=block width=100% height=auto alt="1"></td>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukongKingsly&theme=monokai" display=block width=100% height=auto alt="2"></td>
     </tr>
-    <tr>
-        <td><img src="http://github-readme-streak-stats.herokuapp.com?user=MukongKingsly&theme=dark&date_format=M%20j%5B%2C%20Y%5D" display=block width=100% height=auto alt="3"></td>
-        <td><img src="https://i.makeagif.com/media/2-27-2018/FJ5jsj.gif" display=block align="right" width="400px" height="250px"></td>
-    </tr>
-
 </table>
 
 # Productivity Stats📈:
@@ -41,7 +36,7 @@
     </tr>
     <tr>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MukongKingsly&theme=solarized" display=block width=100% height=auto alt="3"></td>
-        </td>
+         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-commit?username=MukongKingsly&theme=solarized" display=block width=100% height=auto alt="3"></td>
     </tr>
 </table>
 
