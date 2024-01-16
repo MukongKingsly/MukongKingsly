@@ -23,8 +23,7 @@
 
 <table>
     <tr>
-        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukongKingsly&theme=monokai" display=block width=100% height=auto alt="1"></td>
-        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukongKingsly&theme=monokai" display=block width=100% height=auto alt="2"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}" display="block" width=100% height=auto alt="1"></td>
     </tr>
 </table>
 
