@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kingsly Mukong</h1>
 <h3 align="center">A passionate software developer from Cameroon</h3>
 
-<img align="right" width="450px" src="https://octodex.github.com/images/codercat.jpg" alt="coder">
+<img align="right" width="350px" src="https://octodex.github.com/images/codercat.jpg" alt="coder">
 
 - 🔭 I’m currently studying **Communication and Information Engineering**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mukongking.com](https://www.mukongking.com)
 
-- 💬 Ask me about **React, TypeScript, React Native, Firebase, MongoDB, Node.js**
+- 💬 Ask me about **React, TypeScript, React Native, Firebase, Node.js**
 
 - 📫 How to reach me **mukongking@gmail.com**
 
