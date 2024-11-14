@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying **Communication and Information Engineering**
 
-- 🌱 I’m currently learning **Learning Reinforcement**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
