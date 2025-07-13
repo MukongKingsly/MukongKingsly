@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.mukongking.com](https://www.mukongking.com)
+- 👨‍💻 Some of my projects are available on [https://www.mukongking.com/projects](https://www.mukongking.com/projects)
 
-- 💬 Ask me about **React, TypeScript, React Native, Firebase, MongoDB, Node.js**
+- 💬 Ask me about **React, TypeScript, React Native, Firebase, MongoDB, Node.js, Next.js, Nest.js**
 
 - 📫 How to reach me **mukongking@gmail.com**
 
